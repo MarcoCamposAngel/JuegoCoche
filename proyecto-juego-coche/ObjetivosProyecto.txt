@@ -1,0 +1,27 @@
+ASPECTOS GENERALES
+- Camara 3ª persona, desde atrás del vehículo
+- Obstaculos + tráfico + curvas
+- Ambientación: Hillside racing Japon
+- Hora del día variable: Elegible
+- Jugabilidad: Distintos tipos de drifting
+- Mecanicas alrededor del drift
+- Posibilidad de ver "fantasmas" de partidas anteriores
+- Posibilidad de elegir filtros visuales
+
+PROGRESIÓN
+- Al iniciar el juego no tenrás el drift, tras unas cuantas carreras se 
+  desbloquea el drift americano y más adelante el japonés
+- Tras debloquear los dos tipos de drift, desbloqueas la capacidad de 
+  configurar el vehículo
+
+MECÁNICAS
+- Controles: Acelerar, frenar, girar, boost
+- Derrape:
+	Americano: frenar > acelerar + girar
+	Japonés: girar en dirección contraria > girar rapidamente 
+- Mecánica de "estilo": Al realizar acciones exitosamente el jugador 
+  conseguirá puntos de estilo los cuales le concederán bonficaciones las cuales
+  influirán en la partida
+
+ESCENARIOS
+- Divididos por secciones predefinidas
